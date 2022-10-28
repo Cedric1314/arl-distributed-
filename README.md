@@ -17,7 +17,9 @@ git clone https://github.com/Cedric1314/arl-distributed-/
 启动并观察是否生效
 
 cd arl-distributed- /master
+
 docker-compose up -d
+
 docker-compose ps
 
 部署 worker
@@ -29,7 +31,9 @@ docker-compose ps
 在不同的worker上启动并观察是否生效
 
 cd arl-distributed-
+
 docker-compose up -d
+
 docker-compose ps
 
 
