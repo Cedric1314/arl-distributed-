@@ -37,3 +37,7 @@ docker-compose ps
 
 ![Image text](https://raw.githubusercontent.com/Cedric1314/arl-distributed-/main/arl.jpg)
 
+![Image text](https://raw.githubusercontent.com/Cedric1314/arl-distributed-/main/arl11.png)
+
+![Image text](https://raw.githubusercontent.com/Cedric1314/arl-distributed-/main/arl22.png)
+
