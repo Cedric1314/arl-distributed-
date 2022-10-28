@@ -1,5 +1,5 @@
 # arl-distributed-
-基于新版arl2.5.2版本
+arl分布式部署---基于新版arl2.5.2版本
 
 使用版本：https://github.com/ki9mu/ARL-plus-docker
 
