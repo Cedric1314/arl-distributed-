@@ -35,5 +35,5 @@ docker-compose up -d
 
 docker-compose ps
 
-https://github.com/Cedric1314/arl-distributed-/blob/main/arl.png
+![image](https://github.com/Cedric1314/arl-distributed-/blob/main/arl.png)
 
