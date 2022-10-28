@@ -10,11 +10,10 @@ arl分布式部署---基于新版arl2.5.2版本
 git clone https://github.com/Cedric1314/arl-distributed-/
 
 实际使用请修改master/docker-compose.yml 中配置的mongo 和rabbitmq密码。 并同步修改config-docker.yaml 中的mongo和 rabbitmq 密码 以及将master-vps 修改为 master 对应的公网IP, 并允许能通过公网访问到5003，27017、5672 端口
+
 部署 master
 
-为了部署简单，我们将后台Web系统, mongo, 以及rabbitmq 和 scheduler 都部署到master上。
-
-启动并观察是否生效
+为了部署简单，我们将后台Web系统, mongo, 以及rabbitmq 和 scheduler 都部署到master上，启动并观察是否生效
 
 cd arl-distributed- /master
 
